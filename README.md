@@ -33,7 +33,7 @@ The artifact provides:
 - `results/`  
   - `fairness_nLegacy*_mHe*_mu*.txt` : raw logs for each scenario and μ
   - `processed/` : parsed CSV summaries (if generated)
-  - `figures/` : regenerated figures (optional)
+- `figures/` : regenerated figures (optional)
 - `README.md` : this file
 
 ---

@@ -225,4 +225,4 @@ This is expected and is discussed in the paper as a feasibility boundary.
 
 ## Contact / Issues
 
-For anonymous review, please use GitHub Issues for questions or reproduction problems.
+Email:giang-anh.tuan[at]usth.edu.vn.

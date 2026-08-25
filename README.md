@@ -1,5 +1,4 @@
-# Fairness-Constrained Uplink OFDMA Optimization Under Saturated Traffic in Mixed IEEE
-802.11ac/ax WLANs
+# Fairness-Constrained Uplink OFDMA Optimization Under Saturated Traffic in Mixed IEEE 802.11ac/ax WLANs
 Reproducibility artifact for a mixed IEEE 802.11ac/ax uplink study: UL OFDMA opportunity vs AP contention tuning under legacy-protection constraints (ns-3.46 + post-processing scripts + figures).
 
 ![Illustration of the considered mixed IEEE 802.11ac/ax uplink scenario. A single 802.11ax access point (AP) serves

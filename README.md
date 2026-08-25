@@ -2,11 +2,6 @@
 802.11ac/ax WLANs
 Reproducibility artifact for a mixed IEEE 802.11ac/ax uplink study: UL OFDMA opportunity vs AP contention tuning under legacy-protection constraints (ns-3.46 + post-processing scripts + figures).
 
-````markdown
-# Reproducibility Artifact: Fairness-Constrained UL OFDMA in Mixed 802.11ac/ax WLANs (ns-3.46)
-
-This repository is the reproducibility artifact for a paper studying **uplink (UL) OFDMA in IEEE 802.11ax** under **mixed legacy coexistence** with IEEE 802.11ac stations.
-
 ![Illustration of the considered mixed IEEE 802.11ac/ax uplink scenario. A single 802.11ax access point (AP) serves
 both legacy (802.11ac) and high-efficiency (802.11ax) stations under saturated uplink traffic. The AP may trigger uplink
 OFDMA transmissions via a Trigger Frame (TF), after which multiple HE stations transmit simultaneously on different
@@ -14,6 +9,11 @@ resource units (frequency division), while legacy stations continue to contend u
 blocks represent frequency-domain resource allocation in a triggered uplink exchange. This mixed environment motivates
 the need to control UL OFDMA opportunity and AP contention behavior to maximize total throughput while protecting
 legacy performance](./figures/mixedNetwork.png)
+
+````markdown
+# Reproducibility Artifact: Fairness-Constrained UL OFDMA in Mixed 802.11ac/ax WLANs (ns-3.46)
+
+This repository is the reproducibility artifact for a paper studying **uplink (UL) OFDMA in IEEE 802.11ax** under **mixed legacy coexistence** with IEEE 802.11ac stations.
 
 The artifact provides:
 
